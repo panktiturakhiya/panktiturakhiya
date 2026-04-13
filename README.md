@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Data Analyst with a background in Business Analytics and 4+ years of experience working across enterprise and public sector data environments.
+I'm a Data Analyst with a background in Business Analytics and 5+ years of experience working across enterprise and public sector data environments.
 
 I specialize in transforming complex datasets into actionable insights using Power BI, SQL, and Python — supporting decision-making for stakeholders across healthcare, government, and operations.
 

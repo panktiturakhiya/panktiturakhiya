@@ -1,58 +1,70 @@
 # Hi, I'm Pankti Turakhiya 👋
 
-🎯 Data Analyst | Business Intelligence | Public Sector Analytics  
-📍 California, USA  
+🎯 Senior Data Analyst | Power BI | SQL | Azure | Data Governance  
+📍 Sacramento, California  
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Data Analyst with a background in Business Analytics and 5+ years of experience working across enterprise and public sector data environments.
+I am a Microsoft Certified Power BI Developer with 5+ years of experience delivering enterprise-grade BI solutions across retail, supply chain, and public sector domains.
 
-I specialize in transforming complex datasets into actionable insights using Power BI, SQL, and Python — supporting decision-making for stakeholders across healthcare, government, and operations.
-
-Currently, I am working on data-driven projects while seeking full-time opportunities with organizations that support STEM OPT (E-Verify).
+I specialize in building scalable data models, optimizing SQL pipelines, and designing executive-level dashboards that drive business decisions. My work focuses on improving data quality, performance, and accessibility across large-scale data environments.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Data Analysis & BI:** Power BI (DAX, Data Modeling), Tableau, Excel (Power Query)
-- **Programming:** SQL (SQL Server, MySQL, PostgreSQL), Python (pandas, NumPy, scikit-learn)
-- **Data Engineering:** ETL Pipelines, Data Cleaning, Data Validation
-- **Cloud & Tools:** Azure Data Factory, Microsoft Fabric, Snowflake
-- **Other Tools:** SAS, SPSS, Qualtrics
+- **BI & Visualization:** Power BI (DAX, Data Modeling, RLS), Tableau, Excel (Power Query)
+- **Programming & Data:** SQL (SQL Server, MySQL, PostgreSQL), Python (pandas, NumPy)
+- **Data Engineering:** ETL Pipelines, Data Validation, Data Governance
+- **Cloud & Platforms:** Azure Data Factory, Azure Synapse, Microsoft Fabric, Snowflake
+- **Other Tools:** SAS, SPSS, Qualtrics, Git, JIRA
+
+---
+
+## 💼 Professional Experience Highlights
+
+### 🔹 Enterprise BI & Dashboarding (TCS – H&M)
+- Built 30+ KPI dashboards tracking sales, inventory, and supply chain metrics across 2,000+ stores  
+- Optimized Power BI models for 5M+ daily transactions → improved performance by 40%  
+- Implemented RLS and automated refresh pipelines saving 80+ hours/month  
+
+### 🔹 Data Optimization & Governance (Accenture – Alstom)
+- Improved dashboard performance by 30% through SQL and data model optimization  
+- Reduced data pipeline failures by 40% via root cause analysis and monitoring  
+- Enforced governance and compliance for sensitive enterprise datasets  
+
+### 🔹 Public Sector Analytics (CSU Sacramento)
+- Analyzed 10,000+ survey responses to support statewide community programs  
+- Reduced data quality issues by 85% using automated validation in Qualtrics  
+- Delivered insights used for funding decisions for underserved communities  
+
+### 🔹 CRM Data Management (NCPA Foundation)
+- Managing and improving data quality for 1,000+ pharmacy records  
+- Standardizing datasets and ensuring reporting accuracy across stakeholders  
 
 ---
 
 ## 📊 Featured Projects
 
-### 🔹 Power BI Dashboard – Legislative Data Analysis
-- Built an interactive dashboard analyzing multi-year legislative data
-- Used Power Query for data transformation and modeling
-- Enabled filtering by category, subject, and year for stakeholder insights
-
-### 🔹 Customer Analytics & Predictive Modeling
-- Developed machine learning models to predict customer behavior
-- Applied Random Forest and regression techniques
-- Evaluated performance using RMSE and AUC
-
-### 🔹 Data Quality & Reporting Automation
-- Designed data validation pipelines to improve reporting accuracy
-- Automated workflows for data cleaning and transformation
-- Reduced inconsistencies in multi-source datasets
+🚧 (Adding more projects soon – currently building end-to-end analytics projects)
 
 ---
 
 ## 📈 What I'm Currently Working On
 
-- Enhancing Power BI dashboards with advanced DAX and storytelling
-- Building end-to-end data projects (SQL → Python → BI visualization)
-- Expanding knowledge in cloud data platforms (Azure, Snowflake)
+- Advanced Power BI dashboards with complex DAX measures  
+- End-to-end data projects (SQL → Python → Power BI)  
+- Expanding expertise in cloud data platforms (Azure, Snowflake)  
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/panktiturakhiya
-- 💻 GitHub: https://github.com/panktiturakhiya
+- 💼 LinkedIn: https://www.linkedin.com/in/panktiturakhiya/  
+- 💻 GitHub: https://github.com/panktiturakhiya  
+
+---
+
+⭐ *Open to Data Analyst / BI roles with E-Verify employers (STEM OPT eligible)*

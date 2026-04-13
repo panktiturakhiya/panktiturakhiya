@@ -1,6 +1,6 @@
 # Hi, I'm Pankti Turakhiya 👋
 
-🎯 Senior Data Analyst | Power BI | SQL | Azure | Data Governance  
+🎯 Senior Data Analyst | Machine Learning | Power BI | SQL | Azure  
 📍 Sacramento, California  
 
 ---
@@ -9,14 +9,17 @@
 
 I am a Microsoft Certified Power BI Developer with 5+ years of experience delivering enterprise-grade BI solutions across retail, supply chain, and public sector domains.
 
-I specialize in building scalable data models, optimizing SQL pipelines, and designing executive-level dashboards that drive business decisions. My work focuses on improving data quality, performance, and accessibility across large-scale data environments.
+Along with business intelligence, I have hands-on experience in Machine Learning and Data Mining, building predictive models and applying statistical techniques to solve business problems.
+
+I focus on combining data analytics, machine learning, and visualization to deliver actionable insights and scalable data solutions.
 
 ---
 
 ## 🛠️ Technical Skills
 
 - **BI & Visualization:** Power BI (DAX, Data Modeling, RLS), Tableau, Excel (Power Query)
-- **Programming & Data:** SQL (SQL Server, MySQL, PostgreSQL), Python (pandas, NumPy)
+- **Programming & Data:** SQL (SQL Server, MySQL, PostgreSQL), Python (pandas, NumPy, scikit-learn)
+- **Machine Learning:** Regression, Classification, Random Forest, Model Evaluation (RMSE, AUC)
 - **Data Engineering:** ETL Pipelines, Data Validation, Data Governance
 - **Cloud & Platforms:** Azure Data Factory, Azure Synapse, Microsoft Fabric, Snowflake
 - **Other Tools:** SAS, SPSS, Qualtrics, Git, JIRA
@@ -25,38 +28,43 @@ I specialize in building scalable data models, optimizing SQL pipelines, and des
 
 ## 💼 Professional Experience Highlights
 
-### 🔹 Enterprise BI & Dashboarding (TCS – H&M)
+### 🔹 Enterprise BI & Advanced Analytics (TCS – H&M)
 - Built 30+ KPI dashboards tracking sales, inventory, and supply chain metrics across 2,000+ stores  
+- Developed advanced DAX measures and analytical models for trend analysis and forecasting  
 - Optimized Power BI models for 5M+ daily transactions → improved performance by 40%  
-- Implemented RLS and automated refresh pipelines saving 80+ hours/month  
 
-### 🔹 Data Optimization & Governance (Accenture – Alstom)
+### 🔹 Data Optimization & Intelligent Reporting (Accenture – Alstom)
 - Improved dashboard performance by 30% through SQL and data model optimization  
-- Reduced data pipeline failures by 40% via root cause analysis and monitoring  
-- Enforced governance and compliance for sensitive enterprise datasets  
+- Applied analytical techniques to identify operational bottlenecks and improve reporting accuracy  
+- Implemented monitoring systems reducing data pipeline failures by 40%  
 
-### 🔹 Public Sector Analytics (CSU Sacramento)
-- Analyzed 10,000+ survey responses to support statewide community programs  
-- Reduced data quality issues by 85% using automated validation in Qualtrics  
-- Delivered insights used for funding decisions for underserved communities  
+### 🔹 Public Sector Analytics & Statistical Modeling (CSU Sacramento)
+- Analyzed 10,000+ survey responses using statistical techniques and data analysis methods  
+- Reduced data quality issues by 85% using automated validation logic  
+- Delivered insights supporting funding decisions for underserved communities  
 
-### 🔹 CRM Data Management (NCPA Foundation)
-- Managing and improving data quality for 1,000+ pharmacy records  
-- Standardizing datasets and ensuring reporting accuracy across stakeholders  
+### 🔹 CRM Data Management & Data Quality (NCPA Foundation)
+- Managing and standardizing data for 1,000+ pharmacy records  
+- Implementing data quality frameworks to improve reporting reliability  
 
 ---
 
-## 📊 Featured Projects
+## 🤖 Machine Learning & Analytics Projects
 
-🚧 (Adding more projects soon – currently building end-to-end analytics projects)
+- Built predictive models using Random Forest and regression techniques  
+- Applied classification models for customer behavior prediction  
+- Performed model evaluation using RMSE and AUC  
+- Worked on data mining techniques for pattern discovery and insights  
+
+🚧 (Actively building and uploading more ML projects)
 
 ---
 
 ## 📈 What I'm Currently Working On
 
-- Advanced Power BI dashboards with complex DAX measures  
-- End-to-end data projects (SQL → Python → Power BI)  
-- Expanding expertise in cloud data platforms (Azure, Snowflake)  
+- End-to-end ML projects (SQL → Python → Machine Learning → Power BI)  
+- Advanced Power BI dashboards with integrated predictive insights  
+- Expanding knowledge in AI-driven analytics and cloud data platforms  
 
 ---
 
@@ -67,4 +75,4 @@ I specialize in building scalable data models, optimizing SQL pipelines, and des
 
 ---
 
-⭐ *Open to Data Analyst / BI roles with E-Verify employers (STEM OPT eligible)*
+⭐ *Open to Data Analyst / BI / Entry-Level Data Science roles (STEM OPT eligible, E-Verify employers preferred)*

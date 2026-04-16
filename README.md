@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Microsoft Certified Power BI Developer with 5+ years of experience delivering enterprise-grade BI solutions across retail, supply chain, and public sector domains.
+I am a Data Analytics Engineer with 5+ years of experience delivering enterprise-grade BI solutions across retail, supply chain, and public sector domains.
 
 Along with business intelligence, I have hands-on experience in Machine Learning and Data Mining, building predictive models and applying statistical techniques to solve business problems.
 
